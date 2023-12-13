@@ -1,0 +1,14 @@
+.title{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.paragraph{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(40, 39, 39);
+}
+
+body {
+    margin-bottom: 50px; 
+}
